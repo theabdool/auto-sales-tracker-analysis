@@ -21,13 +21,13 @@ Charts: Bar, Line, Donut, Map
 Conditional Formatting
 
 ## Process Summary
-### Data Cleaning:
+#### Data Cleaning:
 - Removed blanks, standardized brand and state names
 - Restructured sales records for pivot compatibility
-### Data Modeling:
+#### Data Modeling:
 - Linked monthly sales, delivery status, COGS, discounts, and salesperson tables
 - Created calculated columns for profit, margin, and delivery rates
-### Dashboard Design:
+#### Dashboard Design:
 - KPI cards (Total Revenue, COGS, Profit, Margin, Orders)
 - Visuals: Profit by salesperson, payment method, region, model year
 - Trend analysis by month and brand
