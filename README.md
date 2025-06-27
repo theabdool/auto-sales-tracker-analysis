@@ -53,6 +53,7 @@ Conditional Formatting
 - Too many slicers and filters → Grouped logically and added a Clear All button
 - Map visual performance → Limited to top states with sufficient data
 
+## Dashboard Screenshot
 ![Auto Sales Dashboard](https://github.com/user-attachments/assets/6cd64c8e-c2e7-4a14-b760-8cd50a8074e6)
 
 
